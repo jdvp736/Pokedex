@@ -1,5 +1,6 @@
 {
   "name": "pokedex202503",
+  "homepage": "https://jdvp736.github.io/Pokedex/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -28,5 +29,4 @@
     "globals": "^16.5.0",
     "vite": "^7.2.4"
   }
-  
 }
